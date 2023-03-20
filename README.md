@@ -1,7 +1,7 @@
 ### Hey..This is Tapan here👋
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Tapan-K&show_icons=true&theme=radical">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapan-K&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapan-K&hide_progress=true">
 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="left" alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAF">
